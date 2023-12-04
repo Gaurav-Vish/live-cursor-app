@@ -14,7 +14,7 @@ Want to run the demo and check it out? No problem!
 First, download the repository with Git:
 
 ```
-git clone [https://github.com/Gaurav-Vish/live-cursor-app](https://github.com/Gaurav-Vish/live-cursor-app)
+git clone https://github.com/Gaurav-Vish/live-cursor-app
 cd react-websockets-tutorial
 ```
 
